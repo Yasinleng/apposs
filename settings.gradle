@@ -1,0 +1,3 @@
+include ':oss'
+include ':app'
+rootProject.name = "AppOss"
